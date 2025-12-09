@@ -9,12 +9,19 @@ Sou desenvolvedor Java e atualmente trabalho/estudo **Spring Boot**, **APIs REST
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+## 🚀 Tecnologias que uso
 
-**Back-end**
 <div>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" />
+  <!-- Java -->
+  <img src="https://skillicons.dev/icons?i=java" />
+  <!-- Spring Boot -->
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <!-- MySQL Workbench -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <!-- Microsoft SQL Server -->
+  <img src="https://skillicons.dev/icons?i=dotnet" />
 </div>
+
 
 ## 📚 Estudando no momento
 - Spring Security + JWT  
@@ -31,7 +38,6 @@ Sou desenvolvedor Java e atualmente trabalho/estudo **Spring Boot**, **APIs REST
 - Geolocalização  
 - Cálculo automático das horas  
 - Dashboard para gestores  
-🔗 *Adiciono o link assim que você quiser*
 
 ### 🔹 Sistema de Controle Fiado e Pagamentos Parciais
 - Cadastro de clientes  
