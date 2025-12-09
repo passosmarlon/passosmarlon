@@ -16,18 +16,6 @@ Sou desenvolvedor Java e atualmente trabalho/estudo **Spring Boot**, **APIs REST
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" />
 </div>
 
-**Front-end & Mobile**
-<div>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
-</div>
-
-**Ferramentas**
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
-</div>
-
----
-
 ## 📚 Estudando no momento
 - Spring Security + JWT  
 - Boas práticas de arquitetura (DTO, Mapper, Services)  
