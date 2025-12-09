@@ -18,8 +18,6 @@ Sou desenvolvedor Java e atualmente trabalho/estudo **Spring Boot**, **APIs REST
   <img src="https://skillicons.dev/icons?i=spring" />
   <!-- MySQL Workbench -->
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <!-- Microsoft SQL Server -->
-  <img src="https://skillicons.dev/icons?i=dotnet" />
 </div>
 
 
