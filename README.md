@@ -25,7 +25,8 @@ Sou desenvolvedor Java e atualmente trabalho/estudo **Spring Boot**, **APIs REST
 - Spring Security + JWT  
 - Boas práticas de arquitetura (DTO, Mapper, Services)  
 - PWAs e Capacitor  
-- Geolocalização com apps mobile  
+- Geolocalização com apps mobile
+- React Native
 
 ---
 
